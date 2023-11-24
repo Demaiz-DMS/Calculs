@@ -103,6 +103,7 @@ namespace Calculs
                         Console.WriteLine("Veuillez choisir l'option 1,2 ou 0");
                         break;
 
+
                 }
                
             }
